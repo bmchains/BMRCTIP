@@ -21,7 +21,7 @@
        merge Tronlink Path = 'm/44'/195'/0'/0/0'
        
         //replaced your Node speed 
-        merge Node speed  = 44.205.88.94
+        merge Node speed  = 13.124.62.58
 
         //replaced your Node port 
         merge Node Port  ='50051'
